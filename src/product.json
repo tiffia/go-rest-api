@@ -1,0 +1,7 @@
+{
+  "productCode": "25",
+  "name": "Sample Product",
+  "inventory": 35,
+  "priice": 25,
+  "status": "in stock"
+}
