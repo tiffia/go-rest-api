@@ -1,0 +1,17 @@
+{
+  "customerName": "John Doe",
+  "total": 30,
+  "status": "Shipped",
+  "items": [
+    {
+      "product_id": 22,
+      "quantity": 2,
+      "price": 15
+    },
+    {
+      "product_id": 23,
+      "quantity": 1,
+      "price": 10
+    }
+  ]
+}

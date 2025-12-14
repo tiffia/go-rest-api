@@ -55,3 +55,4 @@ func (p *product) createProduct(db *sql.DB) error {
 	p.ID = int(id)
 	return nil
 }
+
